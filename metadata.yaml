@@ -1,0 +1,43 @@
+_repo: Wacousta---a-tale-of-the-Pontiac-conspiracy--Complete-_4912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Major (John)
+    alias: Richardson, John
+    birthdate: 1796
+    deathdate: 1852
+    gutenberg_agent_id: '1558'
+    url: http://www.gutenberg.org/2009/agents/1558
+    wikipedia: http://en.wikipedia.org/wiki/John_Richardson_%28author%29
+description: "Wacousta is a novel by John Richardson. Published in 1832, it is sometimes\
+  \ claimed as the first Canadian novel, although in fact it is preceded by Julia\
+  \ Catherine Beckwith's St Ursula's Convent; or, The Nun of Canada (Kingston, 1824).\
+  \ Wacousta is better categorized as the first attempt by a Canadian-born author\
+  \ at historical fiction.\nHowever, it is one of the first novels written by a Canadian-born\
+  \ author about Canada, and, in spite of its overwrought sentimentalism, it has been\
+  \ treated as a seminal work in the development of a Canadian literary sensibility.\n\
+  Its themes include prophecy and opposites, such as manliness vs. effeminacy, wilderness/wildness\
+  \ vs. civilization, sensibility vs. compassion and the natural vs. the supernatural\
+  \ among others.\nIn the period of publication, Wacousta was quite popular not only\
+  \ in Canada, but also in the United States. A contemporary novel it competed with\
+  \ was James Fenimore Cooper's The Last of the Mohicans. Where they differ is that\
+  \ Cooper's novel focuses on the efforts of the individual within the whole, but\
+  \ Richardson's novel concerns itself with broader cross-cultural motivations.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4912'
+  wikidata: Q7958875
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pontiac''s Conspiracy, 1763-1765 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Wacousta : a tale of the Pontiac conspiracy (Complete)'
+url: http://www.gutenberg.org/ebooks/4912
+wikipedia:
+- https://en.wikipedia.org/wiki/Wacousta
