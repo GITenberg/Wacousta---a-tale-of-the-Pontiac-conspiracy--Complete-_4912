@@ -1,5 +1,8 @@
 _repo: Wacousta---a-tale-of-the-Pontiac-conspiracy--Complete-_4912
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Richardson, Major (John)
@@ -24,6 +27,8 @@ description: "Wacousta is a novel by John Richardson. Published in 1832, it is s
   \ Cooper's novel focuses on the efforts of the individual within the whole, but\
   \ Richardson's novel concerns itself with broader cross-cultural motivations.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4912#Wacousta---a-tale-of-the-Pontiac-conspiracy--Complete-
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
